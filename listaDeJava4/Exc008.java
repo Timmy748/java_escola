@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exc8 {
+public class Exc008 {
     //  8. Faça um programa que leia 5 números e informe a soma e a média dos
     //     números.
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exc7 {
+public class Exc007 {
     //  7. Faça um programa que leia 5 números e informe o maior número.
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

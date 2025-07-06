@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exc14 {
+public class Exc014 {
     // 14. Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade
     //     de números pares e a quantidade de números ímpares.
     public static void main(String[] args) {

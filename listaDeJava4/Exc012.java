@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exc12 {
+public class Exc012 {
     // 12. Desenvolva um gerador de tabuada, capaz de gerar a tabuada de qualquer número
     //     inteiro entre 1 a 10. O usuário deve informar de qual número ele deseja ver a
     //     tabuada. A saída deve ser conforme o exemplo abaixo:
