@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exc10 {
+public class Exc010 {
     // 10. Faça um programa que receba dois números inteiros e gere os números inteiros
     //     que estão no intervalo compreendido por eles.
     public static void main(String[] args) {
